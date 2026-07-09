@@ -3,16 +3,13 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+Software Development student at ITLA passionate about Web Development, Backend Engineering, Databases, and Data Analysis. I am constantly learning and exploring new technologies to expand my skills and knowledge in these fields.
 
+💻 Technologies & Tools: C#, .NET, React, JavaScript, HTML, CSS, SQL Server, and MySQL.
+
+📊 Interested in Data Analytics, Business Intelligence, Artificial Intelligence, and Software Engineering.
+
+🚀 Always eager to learn, take on new challenges, and contribute to meaningful projects.
 ---
 
 ### 🎨 Languages & Tools
