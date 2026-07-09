@@ -10,6 +10,7 @@ Software Development student at ITLA passionate about Web Development, Backend E
 📊 Interested in Data Analytics, Business Intelligence, Artificial Intelligence, and Software Engineering.
 
 🚀 Always eager to learn, take on new challenges, and contribute to meaningful projects.
+
 ---
 
 ### 🎨 Languages & Tools
