@@ -60,8 +60,6 @@ Software Development student at ITLA passionate about Web Development, Backend E
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lennynunez55@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/2MAR7FH625S3B1)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lennynicoll/Lennynicoll/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lennynicoll/Lennynicoll/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lennynicoll/Lennynicoll/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lennynicoll/Lennynicoll/output/github-contribution-grid-snake-dark.svg">
+</p>
