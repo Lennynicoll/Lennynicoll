@@ -46,6 +46,14 @@ Software Development student at ITLA passionate about Web Development, Backend E
 
 ---
 
+<h2> Projects</h2>
+
+### Click to view the systems 👇
+
+<a href="https://lennynicoll.github.io/visium-frontend/"><img src="https://img.shields.io/badge/Visum-purple?style=for-the-badge" height="60"></a>
+
+---
+
 <h2>🏆 Certifications! </h2>
 
 [![](https://img.shields.io/badge/Database%20Administrator-teal?style=for-the-badge)](https://drive.google.com/file/d/1Oc9WJ8zNBh0JtX5wX06cpZJWM0c-4az9/view?usp=sharing) [![](https://img.shields.io/badge/Data%20Analyst-blue?style=for-the-badge)](https://drive.google.com/file/d/1Inpgdw9xY7R_Hnwfiphlzyv5ZiXEal55/view?usp=drive_link) [![](https://img.shields.io/badge/KPI%20Evaluator-orange?style=for-the-badge)](https://drive.google.com/file/d/1NkKgShEEhVwFQXmGRBADzju0FwArhz2G/view?usp=sharing)
