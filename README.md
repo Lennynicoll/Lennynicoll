@@ -46,7 +46,7 @@ Software Development student at ITLA passionate about Web Development, Backend E
 
 ---
 
-<h2> Projects</h2>
+<h2>👩🏾‍💻 Projects</h2>
 
 ### Click to view the systems 👇
 
