@@ -59,8 +59,8 @@ p { line-height: 1.6; color: #b9aee0; }
 .btn.mail { background-color: #d64545; }
 
 .avatar {
-  width: 200px;
-  height: 200px;
+  width: 350px;
+  height: 350px;
   border-radius: 50%;
   object-fit: cover;
   border: 3px solid var(--purple);
